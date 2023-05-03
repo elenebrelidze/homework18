@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.logo{
+	
+}
+.logo, .icon{
+	width: 30px;
+
+}
+nav{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: calc(100% - 170px);
+}
+nav li{
+	display: inline-block;
+	margin:10px;
+	
+}
+nav ul{
+	list-style-type: none;
+	
+
+}
